@@ -8,4 +8,4 @@ image: "preview-image.png"
 
 Some other text I wrote.
 
-![Lower case “t” cut out of cheese on a piece of toast in a block of text about morning ritual and desing](Bespoke-cap-text.jpg)
+![Lower case “t” cut out of cheese on a piece of toast in a block of text about morning ritual and desing](Bespoke cap text.jpg)
