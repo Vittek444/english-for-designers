@@ -16,6 +16,7 @@ A reflection connecting the ritual of making toast with graphic design about bal
 
 ![Lower case “t” cut out of cheese on a piece of toast in a block of text about morning ritual and desing](Bespokecaptext.jpg)
 
-2nd variant
+### More visually pleasing second concept
+
 
 ![Lower case “t” cut out of cheese on a piece of toast in a block of text about morning ritual and desing with bread ilustration on the backround](Bespokecaptext2.jpg)
