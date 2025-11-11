@@ -12,8 +12,9 @@ Some other text I wrote.
 ### The Art of Toasting
 A reflection connecting the ritual of making toast with graphic design about balance, timing, and thoughtful attention. 
 
----
+
 ![Lower case “t” cut out of cheese on a piece of toast in a block of text about morning ritual and desing](Bespokecaptext.jpg)
 
 2nd variant
-![Lower case “t” cut out of cheese on a piece of toast in a block of text about morning ritual and desing with bread ilustration on the backround] (Bespokecaptext2.jpg)
+
+![Lower case “t” cut out of cheese on a piece of toast in a block of text about morning ritual and desing with bread ilustration on the backround](Bespokecaptext2.jpg)
