@@ -8,6 +8,7 @@ image: "preview-image.png"
 
 Some other text I wrote.
 
+- [Preview Image](#the-art-of-toasting)
 
 ### The Art of Toasting
 A reflection connecting the ritual of making toast with graphic design about balance, timing, and thoughtful attention. 
