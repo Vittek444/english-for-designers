@@ -24,8 +24,8 @@ I first wrote two original alt text descriptions without any AI tools and one mo
 
 I wrote a short original text (around 125–250 words) exploring my perspective on craft & design. Then I developed a typographic layout featuring my bespoke drop cap, carefully balancing the letterform with the body, ensuring hierarchy, readability, line flow, and ample white space. The composition was created in InDesign, combining thoughtful content with intentional visual design.
 
-- [Preview Design 1](#the-art-of-toasting)
-- [Preview Design 2](#my-second-creative-concept)
+- [Preview Design 1](#design-1)
+- [Preview Design 2](#design-2)
 
 ## The Art of Toasting
 My text is about reflection connecting the ritual of making toast with graphic design, balance, timing, and thoughtful attention.
