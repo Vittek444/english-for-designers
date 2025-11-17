@@ -28,13 +28,13 @@ I wrote a short original text (around 125–250 words) exploring my perspective 
 - [Preview Design 2](#my-second-creative-concept)
 
 ## The Art of Toasting
-A reflection connecting the ritual of making toast with graphic design about balance, timing, and thoughtful attention.
+My text is about reflection connecting the ritual of making toast with graphic design, balance, timing, and thoughtful attention.
 
-
+### Design 1
 ![Lower case “t” cut out of cheese on a piece of toast in a block of text about morning ritual and desing](Bespokecaptext.jpg)
 *InDesign, Photoshop*
 
-### My second creative concept
+### Design 2
 Here, I aimed to make the piece more visually engaging by adding illustrations, background color, and text color, enhancing the interaction between the drop cap and the text.
 
 ![Lower case “t” cut out of cheese on a piece of toast in a block of text about morning ritual and desing with bread ilustration on the backround](Bespokecaptext2.jpg)
