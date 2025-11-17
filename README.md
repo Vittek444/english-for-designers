@@ -5,5 +5,5 @@ Hii!!!
 My name is Vít Roček and this is just my spot for all *English for Designers* assignments, notes, and little creative tasks. A tiny student archive in progress! ✨
 
 # Homework
-- [Character](character)
+- [Bespoke character](bespoke-character)
 - [Alt Text](alt-text)
