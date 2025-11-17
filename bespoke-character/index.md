@@ -7,4 +7,4 @@ I selected a single letter and reimagined it through a specific style. I chose t
 
 The final result is a unique character that reflects my personal visual approach. 🍞🧀
 
-![A slice of toasted bread on a dark plate with a cheese cutout shaped like a lowercase “t” placed neatly on top. ](toast_aj)
+![A slice of toasted bread on a dark plate with a cheese cutout shaped like a lowercase “t” placed neatly on top. ](toast_aj.jpg)
