@@ -6,7 +6,9 @@ I create visual systems and digital experiences that are clear, intuitive, and q
 
 My design journey began in high school, where I learned to think critically about form, function, and user experience. Since then, I’ve grown through real projects, collaborations, and continuous learning design at university.
 
-A defining moment for me was designing an app concept for the National Gallery Prague. What started as a school project quickly became something I cared about on a deeper level. I spent weeks refining the user flow, testing interactions, and making sure every screen felt intuitive and welcoming. When I finished, I decided to send the final prototype to the Gallery itself. That experience showed me how design can move beyond the classroom and into real cultural spaces – and it reinforced how much I enjoy building digital tools that feel meaningful and accessible.
+A defining moment for me was designing the visual identity for the 40th edition of Famufest with the theme of “Networks.” It was our very first assignment at university, and our project made it to the finals and was even presented to the festival’s official jury. Although our design didn’t win, the school decided to showcase it at the university exhibition on Náplavka. This experience showed me how design can reach a real audience and reinforced my passion for creating work that is thoughtful, engaging, and meaningful.
+
+![My and my project on Náplavka](aboutme.jpg)
 
 Today, I aim to craft work that balances clarity with personality. I enjoy building identities that feel alive, interfaces that feel effortless, and digital art that brings emotion into the visual space. I’m drawn to projects that challenge me to think deeper, experiment further, and create solutions that genuinely help people.
 
