@@ -10,5 +10,5 @@ My name is Vít Roček and this is just my spot for all *English for Designers* 
 - [Bespoke character](bespoke-character)
 - [Alt Text](alt-text)
 - [Self Presentation](self-presentation)
-- [Business card](Businesscard)
+- [Business card](Business-card)
 - [Handshake](Handshake)
