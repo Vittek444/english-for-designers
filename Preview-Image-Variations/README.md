@@ -1,3 +1,4 @@
+[english-for-designers](../README.md)
 # Homework: Metadata and Preview Image Variations
 
 ### Goal of the Assignment
