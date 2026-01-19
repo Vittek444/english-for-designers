@@ -37,4 +37,4 @@ The assignment also included creating **three preview image variations**, each u
 * Suggested size: **1200 × 628 px**
 * Aspect ratio: **1.91:1 (landscape)**
 
-![Lower case “t” cut out of cheese on a piece of toast privew image variations](preview-image2.jpg)
+![Lower case “t” cut out of cheese on a piece of toast privew image variations](preview-image2.png)
