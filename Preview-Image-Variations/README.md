@@ -23,7 +23,7 @@ As part of the assignment, three different metadata variations were created. Eac
 **Alt Text:**  Golden-brown toast topped with a cheese cutout shaped like a lowercase “t” in a block of text about morning ritual and desing.
 
 3. **Title:** Small Rituals, Big Design Lessons  
-**Description:** A story comparing making toast to graphic design, where precision, balance, and patience bring harmony.  
+**Description:** A story comparing making toast to graphic design, where precision, balance, and patience bring harmony.  
 **Alt Text:**  A perfectly toasted slice with a cheese “t” cutout in a block of text about morning ritual and desing.  
 
 ---
