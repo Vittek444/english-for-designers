@@ -11,7 +11,7 @@ The task emphasized writing concise and readable text, as well as designing prev
 
 ### Metadata Variations
 
-As part of the assignment, three different metadata variations were created. Each variation includes a title, description, and alt text for my [Bespoke character]([bespoke-character](https://vittek444.github.io/english-for-designers/bespoke-character/)
+As part of the assignment, three different metadata variations were created. Each variation includes a title, description, and alt text for my [Bespoke character](https://vittek444.github.io/english-for-designers/bespoke-character/)
 
 
 1. **Title:** The Art of Toasting  
