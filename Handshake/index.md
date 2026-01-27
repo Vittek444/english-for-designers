@@ -2,9 +2,12 @@
 # Handshake
 
 ### First version 
-Hii, I’m Vít Roček, a graphic designer focused on branding,UX/UI & digital art. 
 
-I create visual systems and digital experiences that are clear, intuitive, and quietly expressive. My strength lies in turning complexity into something simple and making it feel good to use!
+Hi, I’m Vít Roček, a graphic designer focused on branding, UX/UI and digital art.   
+I design clear, intuitive visual systems and digital experiences that feel expressive.  
+I turn complexity into simplicity—and make it feel good.  
+Easy to use.  
+Easy to love.
 
 ---
 ### More serious and fun ideas! 😋
