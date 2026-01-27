@@ -52,7 +52,7 @@ The design focuses on clarity, usability, and accessibility for a wide range of 
 *Mockup showing an educational partf of my application where people can find more informations about specific art style or movement with most popular paintings.*
 
 ![Mockup showing contact part of my app.](Frame 11.jpg)
-*Mockup of contact page in the application, where you can see the opening hours, more information about the branches of our National Gallery in Prague and a map.  
+*Mockup of contact page in the application, where you can see the opening hours, more information about the branches of our National Gallery in Prague and a map.*  
 
 ![Thank you for your attention slide. Final one.](Frame 15.jpg)
 *Conclusion of the presentation.
