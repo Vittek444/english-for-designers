@@ -47,12 +47,12 @@ The application helps users navigate through exhibitions and access relevant inf
 *Description of the design process of the mobile application.
 The project included user research, defining the logical structure of the app, and creating an interactive prototype in Figma.
 The design focuses on clarity, usability, and accessibility for a wide range of users and mockups of the design itself.
-My application is divided into four main sections: Home page, Scan, Tickets, and the user’s personal profile.  
-On the Home page, users can find information about current exhibitions, selected significant artworks from ongoing exhibitions, an educational section, and contact information.  
-The Scan section allows users to scan an artwork in the gallery to access detailed information about the piece.
+My application is divided into four main sections: **Home page, Scan, Tickets, and the user’s personal profile.**  
+On the **Home page**, users can find information about current exhibitions, selected significant artworks from ongoing exhibitions, an educational section, and contact information.  
+**The Scan section** allows users to scan an artwork in the gallery to access detailed information about the piece.
 This section also explains how to correctly scan the artwork to ensure accurate results.
-Tickets section that allows users to purchase tickets online in a quick and convenient way.  
-The user profile section allows users to set a profile picture and a background image.
+**Tickets section** that allows users to purchase tickets online in a quick and convenient way.  
+**The user profile section** allows users to set a profile picture and a background image.
 It includes an overview of purchased tickets with their QR codes, a history of scanned artworks, and contact information.*  
 
 ![Mockup showing educational part of my app.](Frame 10.jpg)
