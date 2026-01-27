@@ -46,8 +46,7 @@ The application helps users navigate through exhibitions and access relevant inf
 ![Design showcase about homepage, scan page, tickets page and contact page.](Frame 9.jpg)
 *Description of the design process of the mobile application.
 The project included user research, defining the logical structure of the app, and creating an interactive prototype in Figma.
-The design focuses on clarity, usability, and accessibility for a wide range of users.
-Showcase of the design itself.*
+The design focuses on clarity, usability, and accessibility for a wide range of users and mockups of the design itself.*
 
 ![Mockup showing educational part of my app.](Frame 10.jpg)
 *Mockup showing an educational partf of my application where people can find more informations about specific art style or movement with most popular paintings.*
