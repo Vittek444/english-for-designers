@@ -1,11 +1,11 @@
 [english-for-designers](../README.md)
-# Homework: Metadata and Preview Image Variations
+# Metadata and Preview Image Variations
 
 ### Goal of the Assignment
 
-The goal of this assignment was to create and evaluate multiple versions of metadata and preview images for a type specimen. The focus was on clarity, accessibility, and meaningful communication across different platforms and audiences.
+The goal of this assignment was to create and test different versions of metadata and preview images for a type specimen. I wanted everything to be clear, easy to read, and work well across different platforms and audiences.  
 
-The task emphasized writing concise and readable text, as well as designing preview images that remain legible, adaptable, and visually clear at various sizes and crops.
+The task also pushed me to write short, simple text and make preview images that stay legible and look good at any size or crop.  
 
 ---
 
@@ -35,6 +35,6 @@ The assignment also included creating **three preview image variations**, each u
 **Guidelines followed:**
 
 * Suggested size: **1200 × 628 px**
-* Aspect ratio: **1.91:1 (landscape)**
-
+* Aspect ratio: **1.91:1 (landscape)**  
+  
 ![Lower case “t” cut out of cheese on a piece of toast privew image variations](preview-image2.png)
