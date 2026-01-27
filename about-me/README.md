@@ -1,15 +1,15 @@
 [english-for-designers](../README.md)
 
 # This is me 👼🌟
-Hii, I’m Vít Roček, a graphic designer focused on branding,UX/UI & digital art!  
-I create visual systems and digital experiences that are clear, intuitive, and quietly expressive. My strength lies in turning complexity into something simple and making it feel good to use.
+Hi, I’m Vít Roček, a graphic designer who works with branding, UX/UI and digital art.  
+I create visual systems and digital experiences that are clear, easy to use, and quietly expressive. I enjoy turning complex ideas into simple, smooth experiences.  
 
-My design journey began in high school, where I learned to think critically about form, function, and user experience. Since then, I’ve grown through real projects, collaborations, and continuous learning design at university.
+I started design in high school, where I learned to think about form, function, and user experience. Since then, I’ve grown by working on real projects, collaborating with others, and studying design at university.  
 
-A defining moment for me was designing the visual identity for the 40th edition of Famufest with the theme of “Networks.” It was our very first assignment and group project at university,and it made it to the finals and was even presented to the festival’s official jury. Although our design didn’t win, the school decided to showcase it at the university exhibition on Náplavka. This experience showed me how design can reach a real audience and reinforced my passion for creating work that is thoughtful, engaging, and meaningful.
+A key moment for me was designing the visual identity for the 40th Famufest, themed “Networks.” It was our first university group project. Our work reached the finals and was shown to the festival’s official jury. Even though we didn’t win, the school displayed it at the university exhibition on Náplavka. This experience showed me how design can reach real people and strengthened my passion for creating work that is thoughtful and meaningful.  
 
 ![My and my project on Náplavka](aboutme.JPG)
 
-Today, I aim to craft work that balances clarity with personality. I enjoy building identities that feel alive, interfaces that feel effortless, and digital art that brings emotion into the visual space. I’m drawn to projects that challenge me to think deeper, experiment further, and create solutions that genuinely help people.
+Today, I aim to make work that balances clarity with personality. I enjoy building identities that feel alive, interfaces that feel easy, and digital art that sparks emotion. I like projects that challenge me, let me experiment, and create solutions that truly help people.  
 
-My long-term goal is to work on projects that blend culture, technology, and storytelling – design that isn’t just seen, but felt.
+My long-term goal is to work on projects that mix culture, technology, and storytelling–design that is not just seen but felt.  
