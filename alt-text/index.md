@@ -32,11 +32,11 @@ My text is about reflection connecting the ritual of making toast with graphic d
 
 ### Design 1
 ![Lower case “t” cut out of cheese on a piece of toast in a block of text about morning ritual and desing](Bespokecaptext.jpg)
-*InDesign, Photoshop*
+*The toast image was cropped and refined in Photoshop, while the text was adjusted and styled in InDesign to create a clear, balanced composition.*
 
 ### Design 2
 Here, I aimed to make the piece more visually engaging by adding illustrations, background color, and text color, enhancing the interaction between the drop cap and the text.
 
 ![Lower case “t” cut out of cheese on a piece of toast in a block of text about morning ritual and desing with bread ilustration on the backround](Bespokecaptext2.jpg)
-*InDesign, Photoshop*
+*The toast image was cropped and refined in Photoshop, two additional images were also created in Photoshop, and the text was adjusted and styled in InDesign to form a clear, balanced composition.*
 
