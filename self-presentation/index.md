@@ -1,12 +1,11 @@
 [english-for-designers](../README.md)
 
 # Self-presentation
-I have created a short presentation of my design works.
-In the presentation, I introduce myself and highlight three outstanding projects that I am most proud of.
-The focus is on clarity, legibility, and a confident visual presentation, serving as a warm-up for a larger project ahead.
+I have created a short presentation of my design works.  
+In the presentation, I introduce myself and highlight three outstanding projects that I am most proud of.  
 
 ![Opening slide to my self-presentation.](Frame 1.jpg)  
-*This opening slide sets the tone for the presentation. 
+*This opening slide sets the tone for the presentation.  
 I briefly introduce myself and explain the course, date, and goal before moving on to the projects.*  
 
 ![Slide teasing about that Im gonna be talking about 3 of my projects.](Frame 2.jpg)  
@@ -62,6 +61,6 @@ It has four main sections: **Home, Scan, Tickets, and Profile.***
 ![Mockup showing contact part of my app.](Frame 11.jpg)  
 *Here we can see the contact section with opening hours, information about gallery branches in Prague, and a map.*    
 
-![Thank you for your attention slide. Final one.](Frame 15.jpg)
+![Thank you for your attention slide. Final one.](Frame 15.jpg)  
 *Conclusion of the presentation.  
-Summarizing the three projects and thanks the audience for their attention.  
+Summarizing the three projects and thanks the audience for their attention.* 
