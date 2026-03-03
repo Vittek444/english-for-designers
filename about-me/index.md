@@ -8,7 +8,7 @@ I started design in high school, where I learned to think about form, function, 
 
 A key moment for me was designing the visual identity for the 40th Famufest, themed “Networks.” It was our first university group project. Our work reached the finals and was shown to the festival’s official jury. Even though we didn’t win, the school displayed it at the university exhibition on Náplavka. This experience showed me how design can reach real people and strengthened my passion for creating work that is thoughtful and meaningful.  
 
-![My and my project on Náplavka](aboutme.JPG)
+![A full body picture of me proudly looking straight to the camere, standing next to my work on Náplavka](aboutme.JPG)
 
 Today, I aim to make work that balances clarity with personality. I enjoy building identities that feel alive, interfaces that feel easy, and digital art that sparks emotion. I like projects that challenge me, let me experiment, and create solutions that truly help people.  
 
