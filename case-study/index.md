@@ -87,22 +87,6 @@ Three priorities guided every decision:
 
 ---
 
-## Constraints and Trade-offs
-
-Not everything could be solved—and that shaped the outcome as much as the ideas did.
-
-> “The challenge wasn’t what to add, but what to leave out.”
-
-Key limitations included:
-
-- Avoiding feature overload in a content-heavy environment  
-- Limited time for advanced personalization  
-- No scope for social or community features  
-
-These constraints forced sharper decisions—and a more focused product.
-
----
-
 ## What Worked, What Didn’t
 
 Some features clearly delivered value:
@@ -121,7 +105,10 @@ Other areas remained unfinished:
 
 The result was a strong foundation—but not a complete ecosystem.
 
----
+
+
+
+# WORK IN PROGRESS... 🏗️👷🚫
 
 ## The Experience in Practice
 
