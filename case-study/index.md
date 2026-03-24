@@ -1,19 +1,13 @@
 [english-for-designers](../README.md)
 
-# Case Study 🖼️📱
-## The Setup
+# Case Study 🖼️📱  
+ 
+## Designing a Mobile Guide for the National Gallery Prague - Project Brief
 
-Designing a mobile app for a cultural institution sounds simple—until you step inside the complexity of a gallery experience.
+> “Designing a mobile app for a cultural institution sounds simple, until you step inside the complexity of a gallery experience...”  
 
-> “Create a mobile guide that helps visitors navigate the gallery, learn about artworks, and personalize their visit.”
-
-This project focused on three core elements:
-
-- **Navigation** through large, often disorienting spaces  
-- **Understanding** artworks beyond short wall labels  
-- **Personalization** of each visitor’s journey  
-
-I worked end-to-end—handling **research, UX, UI, prototyping, and testing**—turning a school brief into a fully realized product concept.
+I worked end-to-end handling **research, UX / UI, prototyping, and testing**—turning a school brief into a fully realized product concept.
+![Project brief](project-brief.png)
 
 ---
 
