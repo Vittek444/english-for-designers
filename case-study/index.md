@@ -24,7 +24,7 @@ Visiting a gallery can be inspiring, but often limited by what’s physically av
 Information is tied to walls, distance, and crowd density.  
 Access depends on where you stand, how much time you have, and how comfortable the format is.
 
-My concept focused on three key opportunities:
+My concept focused on these opportunities:
 
 1. **Access to information**  
    View details about artworks and artists without relying on physical labels  
