@@ -59,7 +59,7 @@ This insight shifted the direction. It wasn’t about adding features. It was ab
 
 > “The design process moved from structure to interaction.”  
 
-![Project brief](design-process.png)  
+![Project brief](designprocess.jpg)  
 
 
 First came clarity:
