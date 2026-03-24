@@ -109,6 +109,7 @@ The result was a strong foundation—but not a complete ecosystem.
 
 
 # WORK IN PROGRESS... 🏗️👷🚫
+![progress](progress.png) 
 
 ## The Experience in Practice
 
@@ -120,7 +121,7 @@ A mobile interface designed to connect physical exploration with digital interac
 
 ## The Impact
 
-The final outcome wasn’t just a prototype—it was a vision of a better gallery experience.
+The final outcome wasn’t just a prototype, it was a vision of a better gallery experience.
 
 Visitors could:
 
