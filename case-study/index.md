@@ -8,7 +8,7 @@
 
 This project focused on three core elements:  
 - **Navigation** through many current exhibitions
-- **Understanding** artworks beyond short wall labels  
+- **Easy** ticket purchase  
 - **Personalization** of each visitor’s journey
 
 ![Project brief](project-brief.png)  
