@@ -76,6 +76,7 @@ Then came interaction:
 - Interactive prototype – built in Figma
 - User testing – validating decisions with real users
 - Final presentation – showcasing the app
+![Design showcase](design-showcase.jpg) 
 
 Three priorities guided every decision:
 
