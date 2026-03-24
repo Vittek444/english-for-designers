@@ -1,53 +1,65 @@
 [english-for-designers](../README.md)
 
-# Case Study 🖼️📱  
+# Case Study - App for NGP🖼️📱  
  
-## Designing a Mobile Guide for the National Gallery Prague - Project Brief
+## Project Brief
 
-> “Designing a mobile app for a cultural institution sounds simple, until you step inside the complexity of a gallery experience...”  
+> “Designing a mobile app for a cultural institution sounds simple, until you step inside the complexity of a gallery experience...”
 
-I worked end-to-end handling **research, UX / UI, prototyping, and testing**—turning a school brief into a fully realized product concept.
-![Project brief](project-brief.png)
+This project focused on three core elements:  
+- **Navigation** through many current exhibitions
+- **Understanding** artworks beyond short wall labels  
+- **Personalization** of each visitor’s journey
+
+![Project brief](project-brief.png)  
+*I worked end-to-end handling **research, UX / UI, prototyping, and testing** turning a school brief into a fully realized product concept.* 
 
 ---
 
-## The Core Problem
+## The Core Problem Or Opportunity
+> “The goal wasn’t to fix a broken system, but to introduce a new, more accessible layer to the gallery experience.”
 
-Visiting a gallery should feel immersive, not confusing.
+Visiting a gallery can be inspiring, but often limited by what’s physically available in the space.
 
-Most visitors relied on minimal wall text. This created a fragmented experience—more walking than understanding.
+Information is tied to walls, distance, and crowd density.  
+Access depends on where you stand, how much time you have, and how comfortable the format is.
 
-> “There was no official mobile guide. Learning depended on what was physically available in the space.”
+My concept focused on three key opportunities:
 
-This led to three key gaps:
+1. **Access to information**  
+   View details about artworks and artists without relying on physical labels  
 
-1. **Lack of context** around artworks  
-2. **No guided navigation** through exhibitions  
-3. **No way to save or revisit pieces**  
+2. **Ease of use**  
+   Simple ticket purchase and a clear overview of current exhibitions  
 
-The assumption was clear: a mobile app could bridge all three.
+3. **Extended experience**  
+   Scan artworks, explore artistic movements, and revisit content anytime  
+
+The idea was to create a mobile app that complements the physical visit making it more flexible, inclusive, and self-directed.
 
 ---
 
 ## Understanding Reality
 
-Before designing anything, I needed to understand how people actually behave in galleries—not how we think they do.
+Before designing anything, I needed to understand how people actually behave in galleries, not how we think they do.
 
-I approached the problem in three stages:
+I approached the problems:
 
-- Researching visitor behavior in museums  
+- Researching visitor behavior in galleries and museums
 - Analyzing existing gallery and museum apps  
 - Mapping out structure through information architecture  
 
-> “Users don’t want more information—they want the right information at the right moment.”
+> “Users don’t want more information, they want the right information at the right moment.”
 
-This insight shifted the direction. It wasn’t about adding features. It was about **reducing friction**.
+This insight shifted the direction. It wasn’t about adding features. It was about **making things more accessible**.
 
 ---
 
-## Designing the Experience
+## Design Process
 
 The design process moved from structure to interaction.
+![Project brief](design-process.png)  
+
 
 First came clarity:
 
