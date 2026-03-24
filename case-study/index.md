@@ -68,7 +68,7 @@ First came clarity:
 - Value proposition canvas – defining what the app should deliver
 - User flow, wireframes, UI design – structuring the experience
 
-![User flow](user-flow.jpg)  
+![User flow](userflow.jpg)  
 
 
 Then came interaction:
