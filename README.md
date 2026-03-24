@@ -17,3 +17,4 @@ My name is Vít Roček and this is just my spot for all *English for Designers* 
 
 *Summer Semester* 🥥🌴🌺
 - [Today I Learned](today-i-learned)
+- [Case Study](case-study)
