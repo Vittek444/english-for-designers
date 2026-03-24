@@ -12,5 +12,5 @@ The part that surprised me the most is that the stripes aren’t only on their f
 What made this interesting to me personally and what I learned is that tigers aren’t just powerful predators – they’re also completely unique individuals.  
 
    ![Shaved tiger skin showing, that they have stripes on their skin too](tiger_stripes.png)  
-   ![Tiger eyes closeup](blink.gif)
+   ![Tiger eyes closeup](blink-ezgif.com-resize.gif)
   
