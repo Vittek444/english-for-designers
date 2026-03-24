@@ -77,7 +77,7 @@ Then came interaction:
 - User testing – validating decisions with real users
 - Final presentation – showcasing the app
 
-![Design showcase](design.png) 
+![Design showcase](design2.png) 
 
 Three priorities guided every decision:
 
