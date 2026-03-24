@@ -57,21 +57,25 @@ This insight shifted the direction. It wasn’t about adding features. It was ab
 
 ## Design Process
 
-The design process moved from structure to interaction.
+> “The design process moved from structure to interaction.”  
+
 ![Project brief](design-process.png)  
 
 
 First came clarity:
 
-- Wireframes to define layout and flow  
-- Information hierarchy to reduce overload  
-- Navigation patterns that feel intuitive in physical space  
+- User research, problems, and insights – understanding users’ needs
+- Value proposition canvas – defining what the app should deliver
+- User flow, wireframes, UI design – structuring the experience
+
+![User flow](user-flow.png)  
+![Wireframes](Wireframes.png)  
 
 Then came interaction:
 
-- A clickable prototype built in Figma  
-- Real user testing to validate decisions  
-- Iterations based on observed confusion points  
+- Interactive prototype – built in Figma
+- User testing – validating decisions with real users
+- Final presentation – showcasing the app
 
 Three priorities guided every decision:
 
