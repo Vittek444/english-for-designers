@@ -99,9 +99,9 @@ Then, I focused on interaction:
 
 These priorities guided my decision:
 
-- **Speed** — users get information fast
-- **Clarity** — no overload 
-- **Continuity** — connect physical and digital space
+- **Speed** – users get information fast
+- **Clarity** – no overload 
+- **Continuity** – connect physical and digital space
 
 ---
 
