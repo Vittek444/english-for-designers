@@ -85,7 +85,7 @@ Then, I focused on interaction:
   <img src="scan.gif" width="300"/>
 </p>
 
-Three priorities guided every decision:
+These priorities guided my decision:
 
 - **Speed** — users get information fast
 - **Clarity** — no overload 
