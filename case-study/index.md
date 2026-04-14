@@ -77,7 +77,7 @@ Then, I focused on interaction:
 - User testing with real users, colleagues and friends
 - Final presentation of the concept
 
-![Design showcase](design2.png) 
+![Design showcase](design_showcase.png) 
 
 Three priorities guided every decision:
 
@@ -142,6 +142,7 @@ Key lessons:
 - Navigation shapes the experience
 - Testing shows what design alone cannot  
 
-Working solo helped me improve fast. It forced me to make clear decisions at every step.
+Working solo helped me improve fast. It forced me to make clear decisions at every step.  
+
 ![Summary of my project: It was my first attempt at mobile app design, giving me the opportunity to explore the entire process from initial planning to the final design.  My goal was to craft a simple, minimalist, yet effective solution that strikes a balance between functionality and aesthetics.
 Beyond developing new skills, this project also gave me a deeper insight into the design approach behind creating mobile applications.](summary.png)
