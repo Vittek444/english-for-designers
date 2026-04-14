@@ -112,7 +112,7 @@ This is a strong base. But it is not a full system yet.
 
 | | |
 |---|---|
-| ![](gif1.gif) | ![](gif2.gif) |
+| ![](home.gif) | ![](scan.gif) |
 
 A mobile interface that connects physical space with digital interaction.
 
