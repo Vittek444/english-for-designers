@@ -78,7 +78,7 @@ Then, I focused on interaction:
 - Final presentation of the concept
 
 ![Design process](design_process.png) 
-![Design showcase](design_showcase.png) 
+![Design showcase](design_showcase1.png) 
 
 Three priorities guided every decision:
 
