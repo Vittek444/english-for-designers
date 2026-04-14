@@ -77,6 +77,7 @@ Then, I focused on interaction:
 - User testing with real users, colleagues and friends
 - Final presentation of the concept
 
+![Design process](design_process.png) 
 ![Design showcase](design_showcase.png) 
 
 Three priorities guided every decision:
