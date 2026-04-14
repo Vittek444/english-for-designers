@@ -1,18 +1,18 @@
 [english-for-designers](../README.md)
 
-# Case Study - App for NGP🖼️📱  
+# App for NGP – Case Study 🖼️📱  
 ![Project brief](start.png)  
 ## Project Brief
 
-> “Designing a mobile app for a cultural institution sounds simple, until you step inside the complexity of a gallery experience...”
+> “Designing a mobile app for a cultural institution sounds simple. It isn’t...”
 
 This project focused on three core elements:  
-- **Navigation** through many current exhibitions
-- **Easy** ticket purchase  
-- **Personalization** of each visitor’s journey
+- **Navigation** across multiple exhibitions
+- **Easy** ticket purchase
+- **Personalized** visitor experience
 
 ![Project brief](project-brief.png)  
-*I worked end-to-end handling **research, UX / UI, prototyping, and testing** turning a school brief into a fully realized product concept.* 
+*I worked end-to-end. I handled research, UX/UI design, prototyping, and testing. I turned a school brief into a full product concept.* 
 
 ---
 
