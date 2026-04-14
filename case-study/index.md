@@ -81,8 +81,8 @@ Then, I focused on interaction:
 
 ![Design showcase](design_showcase1.png) 
 <p align="center">
-  <img src="![](home.gif)" width="300"/>
-  <img src="![](scan.gif" width="300"/>
+  <img src="home.gif" width="300"/>
+  <img src="scan.gif" width="300"/>
 </p>
 
 Three priorities guided every decision:
