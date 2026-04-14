@@ -113,7 +113,6 @@ This is a strong base. But it is not a full system yet.
 | | |
 |---|---|
 | ![](home.gif) | ![](scan.gif) |  
-![mockups](visuals.png) 
 
 A mobile interface that connects physical space with digital interaction.
 
