@@ -2,7 +2,7 @@
 
 # App for NGP – Case Study 🖼️📱  
 ![Project brief](image8.png)  
-## Project Brief
+## My Role & Project Brief
 
 > “Designing a mobile app for a cultural institution sounds simple. It isn’t...”
 
@@ -17,39 +17,39 @@ This project focused on three core elements:
 ---
 
 ## The Core Problem Or Opportunity
-> “The goal wasn’t to fix a broken system, but to introduce a new, more accessible layer to the gallery experience.”
+> “The goal was not to fix a broken system. It was to add a new layer to the gallery experience.”
 
-Visiting a gallery can be inspiring, but often limited by what’s physically available in the space.
+Gallery visits can feel inspiring. But they are often limited by the space.  
+Information lives on walls.  
+Access depends on distance, time, and crowd size.  
+The format does not work for everyone.  
 
-Information is tied to walls, distance, and crowd density.  
-Access depends on where you stand, how much time you have, and how comfortable the format is.
-
-My concept focused on these opportunities:
-
+I focused on three main opportunities:  
 1. **Access to information**  
-   View details about artworks and artists without relying on physical labels  
+  Users can view artwork details without relying on wall labels
 
-2. **Ease of use**  
+3. **Ease of use**  
    Simple ticket purchase and a clear overview of current exhibitions  
 
-3. **Extended experience**  
-   Scan artworks, explore artistic movements, and revisit content anytime  
+4. **Extended experience**  
+  Users can scan artworks, explore movements, and return to content later
 
-The idea was to create a mobile app that complements the physical visit making it more flexible, inclusive, and self-directed.
+The goal was simple.
+Create a mobile app that supports the visit and makes it more **flexible** and **inclusive**.
 
 ---
 
 ## Understanding Reality
 
-Before designing anything, I needed to understand how people actually behave in galleries, not how we think they do.
+Before designing, I needed to see how people actually behave in galleries.
 
 I approached the problems:
 
-- Researching visitor behavior in galleries and museums
-- Analyzing existing gallery and museum apps  
-- Mapping out structure through information architecture  
+- Researching visitor behavior
+- Reviewing existing apps
+- Building the information architecture
 
-> “Users don’t want more information, they want the right information at the right moment.”
+> “Users don’t want more information. They want the right information at the right time.”
 
 This insight shifted the direction. It wasn’t about adding features. It was about **making things more accessible**.
 
@@ -57,43 +57,43 @@ This insight shifted the direction. It wasn’t about adding features. It was ab
 
 ## Design Process
 
-> “The design process moved from structure to interaction.”  
+> “I moved from structure to interaction.”
 
 ![Project brief](designprocess.jpg)  
 
 
-First came clarity:
+First, I built clarity:
 
-- User research, problems, and insights – understanding users’ needs
+- User research and key insights – understanding users’ needs
 - Value proposition canvas – defining what the app should deliver
 - User flow, wireframes, UI design – structuring the experience
 
 ![User flow](userflow.jpg)  
 
 
-Then came interaction:
+Then, I focused on interaction:
 
-- Interactive prototype – built in Figma
-- User testing – validating decisions with real users
-- Final presentation – showcasing the app
+- Interactive prototype in Figma
+- User testing with real users, colleagues and friends
+- Final presentation of the concept
 
 ![Design showcase](design2.png) 
 
 Three priorities guided every decision:
 
-- **Speed** — access information instantly  
-- **Clarity** — avoid overwhelming the user  
-- **Continuity** — connect the physical and digital experience  
+- **Speed** — users get information fast
+- **Clarity** — no overload 
+- **Continuity** — connect physical and digital space
 
 ---
 
 ## What Worked, What Didn’t
 
-Some features clearly delivered value:
+Some features worked well:
 
-- **In-app ticket storage** simplified entry  
-- **Artwork scanning** provided instant context  
-- **Personal gallery** let users save and revisit pieces  
+- **In-app tickets** made entry simple
+- **Artwork scanning** gave instant context
+- **Personal gallery** let users save artworks
 
 Other areas remained unfinished:
 
@@ -103,19 +103,15 @@ Other areas remained unfinished:
 | Social features | Not solved | Sharing could extend the experience beyond the visit |
 | Visitor analytics | Not solved | Data could improve both UX and exhibitions |
 
-The result was a strong foundation—but not a complete ecosystem.
+This is a strong base. But it is not a full system yet.
 
-
-
-
-# WORK IN PROGRESS... 🏗️👷🚫
-![progress](progress.png) 
+---
 
 ## The Experience in Practice
 
 ![Mobile app prototype showing artwork scanning and saved gallery features](image.png)
 
-A mobile interface designed to connect physical exploration with digital interaction.
+A mobile interface that connects physical space with digital interaction.
 
 ---
 
@@ -129,22 +125,20 @@ Visitors could:
 - Learn about artworks in context  
 - Build a personal collection during their visit  
 
-> “The experience shifted from passive viewing to active exploration.”
+> “The visit shifts from passive viewing to active exploration.”
 
-The project was also shared with the National Gallery Prague as a forward-looking concept.
-
+I also shared this concept with the National Gallery Prague. I offered to walk them through the idea in person if it resonated, but they didn’t get back to me.
 ---
 
 ## What I Learned
 
-Designing for cultural spaces is a balancing act.
+Designing for cultural spaces is a balance.
+Too much information overwhelms.
+Too little creates distance.
 
-Too much information overwhelms. Too little disconnects.
+Key lessons:
+Simplicity beats completeness
+Navigation shapes the experience
+Testing shows what design alone cannot
 
-Three key lessons shaped my approach:
-
-- **Simplicity beats completeness** in content-heavy environments  
-- **Navigation is experience**, especially in physical-digital hybrids  
-- **Early testing reveals what design alone cannot**  
-
-Working solo across the entire process strengthened not just my skills—but my ability to make decisions with clarity and intent.
+Working solo helped me improve fast. It forced me to make clear decisions at every step.
