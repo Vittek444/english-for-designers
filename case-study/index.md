@@ -2,7 +2,7 @@
 
 # App for NGP – Case Study 🖼️📱  
 ![Project brief](image8.png)  
-## The Beginning & Project Brief 
+## The Beginning
 This project started as a course assignment. It was part of a university class, where I had around 2–3 months to complete it.  
 After finishing the assignment, I saw more potential in my idea so I decided to refine the app and develop it further beyond the original brief.  
 
@@ -13,7 +13,7 @@ I did not receive a response...
 
 Still, this step was important. It shifted the project from a school task to a real-world proposal.  
 
-
+## Project Brief
 > “Designing a mobile app for a cultural institution sounds simple. It isn’t...”
 
 My project focused on three core elements:  
