@@ -19,14 +19,15 @@ My project focused on three core elements:
 ## The Core Problem Or Opportunity
 > “The goal was not to fix a broken system. It was to add a new layer to the gallery experience.”
 
-The gallery already has a mobile app from 2018. However, it focuses on educational content about drawing rather than the visit itself.  
-**It does not support navigation, ticketing, or interaction with exhibitions...**
-![Old app showcase](old.png) 
-
 Gallery visits can feel inspiring. But they are often limited by the space.  
 Information lives on walls.  
 Access depends on distance, time, and crowd size.  
 The format does not work for everyone.  
+
+The gallery already has a mobile app from 2018. However, it focuses on educational content about drawing rather than the visit itself.  
+**It does not support navigation, ticketing, or interaction with exhibitions...**  
+
+![Old app showcase](old.png) 
 
 I focused on main opportunities:  
 1. **Access to information**  
@@ -84,10 +85,7 @@ Then, I focused on interaction:
 ![Design process](design_process.png)  
 
 ![Design showcase](design_showcase1.png) 
-<p align="center">
-  <img src="home.gif" width="300"/>
-  <img src="scan.gif" width="300"/>
-</p>
+
 
 These priorities guided my decision:
 
@@ -113,7 +111,7 @@ Other areas remained unfinished:
 | Social features | Not solved | Sharing could extend the experience beyond the visit |
 | Visitor analytics | Not solved | Data could improve both UX and exhibitions |
 
-This is a strong base. But it is not a full system yet.
+This is a strong base.
 
 ---
 
@@ -128,6 +126,11 @@ Visitors could:
 - Build a personal collection during their visit  
 
 > “The visit shifts from passive viewing to active exploration.”
+
+<p align="center">
+  <img src="home.gif" width="300"/>
+  <img src="scan.gif" width="300"/>
+</p>
 
 I also shared this concept with the National Gallery Prague. I offered to walk them through the idea in person if it resonated, but they didn’t get back to me.
 
@@ -148,3 +151,5 @@ Working solo helped me improve fast. It forced me to make clear decisions at eve
 
 ![Summary of my project: It was my first attempt at mobile app design, giving me the opportunity to explore the entire process from initial planning to the final design.  My goal was to craft a simple, minimalist, yet effective solution that strikes a balance between functionality and aesthetics.
 Beyond developing new skills, this project also gave me a deeper insight into the design approach behind creating mobile applications.](summary.png)
+
+If you wanna see more about my app: [My Behance Case Study(https://your-link.com](https://www.behance.net/gallery/235184575/NGP-App)
