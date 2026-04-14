@@ -110,7 +110,9 @@ This is a strong base. But it is not a full system yet.
 
 ## The Experience in Practice
 
-![Mobile app prototype showing artwork scanning and saved gallery features](app.mov)
+| | |
+|---|---|
+| ![](gif1.gif) | ![](gif2.gif) |
 
 A mobile interface that connects physical space with digital interaction.
 
