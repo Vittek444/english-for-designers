@@ -80,6 +80,10 @@ Then, I focused on interaction:
 ![Design process](design_process.png)  
 
 ![Design showcase](design_showcase1.png) 
+<p align="center">
+  <img src="![](home.gif)" width="300"/>
+  <img src="![](scan.gif" width="300"/>
+</p>
 
 Three priorities guided every decision:
 
@@ -106,16 +110,6 @@ Other areas remained unfinished:
 | Visitor analytics | Not solved | Data could improve both UX and exhibitions |
 
 This is a strong base. But it is not a full system yet.
-
----
-
-## The Experience in Practice
-
-| | |
-|---|---|
-| ![](home.gif) | ![](scan.gif) |  
-
-A mobile interface that connects physical space with digital interaction.
 
 ---
 
