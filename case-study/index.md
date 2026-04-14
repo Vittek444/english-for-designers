@@ -128,17 +128,20 @@ Visitors could:
 > “The visit shifts from passive viewing to active exploration.”
 
 I also shared this concept with the National Gallery Prague. I offered to walk them through the idea in person if it resonated, but they didn’t get back to me.
+
 ---
 
 ## What I Learned
 
-Designing for cultural spaces is a balance.
-Too much information overwhelms.
-Too little creates distance.
+Designing for cultural spaces is a balance.  
+Too much information overwhelms.  
+Too little creates distance.  
 
 Key lessons:
-Simplicity beats completeness
-Navigation shapes the experience
-Testing shows what design alone cannot
+- Simplicity beats completeness  
+- Navigation shapes the experience
+- Testing shows what design alone cannot  
 
 Working solo helped me improve fast. It forced me to make clear decisions at every step.
+![Summary of my project: It was my first attempt at mobile app design, giving me the opportunity to explore the entire process from initial planning to the final design.  My goal was to craft a simple, minimalist, yet effective solution that strikes a balance between functionality and aesthetics.
+Beyond developing new skills, this project also gave me a deeper insight into the design approach behind creating mobile applications.](summary.png)
