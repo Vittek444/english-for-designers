@@ -1,7 +1,7 @@
 [english-for-designers](../README.md)
 
 # App for NGP – Case Study 🖼️📱  
-![Project brief](start.png)  
+![Project brief](image8.png)  
 ## Project Brief
 
 > “Designing a mobile app for a cultural institution sounds simple. It isn’t...”
