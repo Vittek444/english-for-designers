@@ -6,7 +6,7 @@
 
 > “Designing a mobile app for a cultural institution sounds simple. It isn’t...”
 
-This project focused on three core elements:  
+My project focused on three core elements:  
 - **Navigation** across multiple exhibitions
 - **Easy** ticket purchase
 - **Personalized** visitor experience
@@ -19,12 +19,16 @@ This project focused on three core elements:
 ## The Core Problem Or Opportunity
 > “The goal was not to fix a broken system. It was to add a new layer to the gallery experience.”
 
+The gallery already has a mobile app from 2018. However, it focuses on educational content about drawing rather than the visit itself.  
+**It does not support navigation, ticketing, or interaction with exhibitions...**
+![Old app showcase](old.png) 
+
 Gallery visits can feel inspiring. But they are often limited by the space.  
 Information lives on walls.  
 Access depends on distance, time, and crowd size.  
 The format does not work for everyone.  
 
-I focused on three main opportunities:  
+I focused on main opportunities:  
 1. **Access to information**  
   Users can view artwork details without relying on wall labels
 
