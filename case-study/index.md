@@ -162,4 +162,4 @@ Working solo helped me improve fast. It forced me to make clear decisions at eve
 ![Summary of my project: It was my first attempt at mobile app design, giving me the opportunity to explore the entire process from initial planning to the final design.  My goal was to craft a simple, minimalist, yet effective solution that strikes a balance between functionality and aesthetics.
 Beyond developing new skills, this project also gave me a deeper insight into the design approach behind creating mobile applications.](summary.png)
 
-If you wanna see more about my app: [My Behance Case Study(https://your-link.com](https://www.behance.net/gallery/235184575/NGP-App)
+If you wanna see more about my app: [My Behance Case Study](https://www.behance.net/gallery/235184575/NGP-App)
