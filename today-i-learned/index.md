@@ -1,7 +1,7 @@
 [english-for-designers](../README.md)
 # Today I Learned 🐅
 
-*raw notes* 
+*Raw notes & Thoughts* 
 
 Today I wanna share with you something which is that I really like finding the most random facts about animals. One of my favorite animals is the tiger. So recently I learned something about them. I didn’t expect at all, every single tiger has a unique stripe pattern, kind of like human fingerprints. 
 
@@ -13,4 +13,68 @@ What made this interesting to me personally and what I learned is that tigers ar
 
    ![Shaved tiger skin showing, that they have stripes on their skin too](tiger_stripes.png)  
    ![Tiger eyes closeup](blink-ezgif.com-resize.gif)
-  
+
+*AI Cleanup*
+# Today I Learned 🐅
+
+---
+
+## The hook
+
+I love random animal facts.
+
+The weirder, the better.
+
+And recently, tigers taught me something I never saw coming.
+
+---
+
+## Every tiger is one of a kind
+
+Every single tiger has a unique stripe pattern.
+
+No two are the same.
+
+Like human fingerprints, completely individual.
+
+---
+
+## The stripes have a purpose
+
+Those stripes aren't just beautiful. They work.
+
+In tall grass, the stripes break up the tiger's shape.
+
+To their prey, they almost vanish.
+
+Here's the twist – tigers look bright orange to us.
+
+But many animals they hunt can't see color the same way.
+
+So the disguise actually works.
+
+---
+
+## The part that stopped me cold
+
+The stripes aren't just on the fur.
+
+They're on the skin too.
+
+If you shaved a tiger – the pattern is still there.
+
+It goes all the way down.
+
+---
+
+## What I took away
+
+Tigers aren't just powerful predators.
+
+They're completely unique individuals.
+
+Every single one, marked differently from birth.
+
+Nature doesn't mass-produce its most iconic creatures.
+
+Each one is one of a kind.
