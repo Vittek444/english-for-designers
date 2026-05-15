@@ -1,23 +1,23 @@
 [english-for-designers](../README.md)
 # Storytelling
 
-![](opening.jpg)
+![](opening.jpg)  
 *Hi everyone! Please welcome to my storytelling.*  
 
-![](one.jpg)
+![](one.jpg)  
 *My story is called One More Try.  
 One.*
 
-![](more.jpg)
+![](more.jpg)  
 *More.*
 
-![](try.jpg)
+![](try.jpg)  
 *Try.*  
 
 ![](my_story.jpg)
 *I'm Vít Roček - a graphic designer focused on branding, UX/UI, and digital art.*  
 
-![](visual_language.jpg)
+![](visual_language.jpg)  
 *And I'm here to talk to you about what it takes to find your own visual language.*
 
 *But before we get there, let me tell you something about myself.I can't imagine a single day without music. It's not background noise. It's not a playlist I put on while I work. It's how I think. It's how I feel. It's how I make sense of the world around me. And it turns out - it's also how I design.*  
@@ -25,7 +25,7 @@ One.*
 
 *But first - let me take you back to where it all started.*
 
-![](idea.jpg)
+![](idea.jpg)  
 *A year ago, I had no idea what I wanted to do for my thesis.*
 
 *My supervisor asked me: **"So, what's your thesis topic?"** I said: **"Good question."** That was September. It was not a good answer...*  
@@ -37,7 +37,7 @@ One.*
 
 *Than it hit me. Why not design something for this world? The world I already live in every day. The concerts. The club nights. The subculture I've been part of for years. Not a mass open-air festival. Not a corporate music brand. Something that feels like the music itself. **Experimental. Raw. Alive. Honest.***
 
-![](struggle.jpg)
+![](struggle.jpg)  
 ***That's how Encore was born. My fictive music festival.***
 
 *The name comes from two places. First - it's my favorite song, by an artist called Shygirl. Second - the word itself. An additional performance, prompted by enthusiastic audience demand. That felt right. A festival that keeps giving. That earns its next moment.*  
@@ -60,10 +60,10 @@ So I started designing. And I kept designing.*
 *But I was stuck. Really stuck.*   
 *That feeling - that's art block. And if you've ever been there, you know how heavy it is. You're not stuck because you lack talent. You're stuck because you care too much to settle. Every designer I know has been there. And nobody talks about it enough...*
 
-![](my_designs.jpg)
+![](my_designs.jpg)  
 *My design concepts and ideas.*
 
-![](Insight.jpg)
+![](Insight.jpg)  
 *I didn't find the answer on the internet.*  
 ***I found it in my memories.** On my phone. It was all around me the whole time.*  
 *One evening I stopped trying to design. I just started scrolling through photos from nights out with my friends. Concerts. Club nights. Random moments at 2am in places that felt like home. And I put on the music. I just needed to feel it.* 
@@ -71,7 +71,7 @@ So I started designing. And I kept designing.*
 *My friends were there too - not as designers, not as critics. Just as people who knew me. I showed them what I was working on. And they said: "This one. This feels like you."*   
 ***That was it.***  
 
-![](solution.jpg)
+![](solution.jpg)  
 *So I went back to the screen. One more try.*
 
 *The answer came in three layers.*  
@@ -84,16 +84,16 @@ So I started designing. And I kept designing.*
 
 *Together they create something that feels alive. Not just a logo. Not just a poster. A visual world you can step into. And for the first time — I was proud of what I made. Not because it was perfect.* ***Because it was mine.***
 
-![Slowly revealing my final design](design.jpg)  
+![Slowly revealing my final design](design.jpg)    
 *Teaser of my final design.*
 
-![Invitation for the audience to follow my festival instagram profile](ig.jpg)  
+![Invitation for the audience to follow my festival instagram profile](ig.jpg)    
 *Invitation for the audience to follow my festival instagram profile.*
 
-![My final design](final.jpg)
+![My final design](final.jpg)  
 *My final design.*
 
-![](lessons.jpg)
+![](lessons.jpg)  
 *So what did this process teach me?*    
 
 ***Three things.*** 
@@ -106,7 +106,7 @@ So I started designing. And I kept designing.*
 
  
 
-![Thank you for the attention](bye.jpg)
+![Thank you for the attention](bye.jpg)  
 *And maybe that's what finding your visual language really means.*    
 *It's not a style. It's not a color palette. It's not a typeface.*     
 *It's the moment your work finally sounds like you.*    
